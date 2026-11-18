@@ -1,6 +1,5 @@
 
-fastapi
-uvicorn[standard]
+streamlit
 httpx
 pytest
-python-multipart
+packaging
